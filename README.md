@@ -34,4 +34,4 @@ A console-based Tic Tac Toe game developed using Java.
 
 ## Screenshot
 
-![Gameplay](screen shots/gamestart.png.png screen shots/gamewin.png.png)
+![Gameplay](screenshots/gamestart.png.png screenshots/gamewin.png.png)
