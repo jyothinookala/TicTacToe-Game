@@ -32,13 +32,13 @@ A console-based Tic Tac Toe game developed using Java.
 2. Open the project in VS Code
 3. Run TicTacToe.java
 
-
 ## Screenshots
 
 ### Game Start
-
 ![Game Start](screenshots/gamestart.png)
 
 ### Winner Screen
+![Winner Screen](screenshots/gamewin.png)
 
-![Winner](screenshots/gamewin.png)
+### Restart & Reset Score
+![Restart and Reset Score](screenshots/restart-reset.png)
