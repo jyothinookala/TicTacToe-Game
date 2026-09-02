@@ -1,4 +1,4 @@
-# Tic Tac Toe Game 🎮
+# Tic Tac Toe Game 
 
 A console-based Tic Tac Toe game developed using Java.
 
